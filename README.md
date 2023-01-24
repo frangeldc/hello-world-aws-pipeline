@@ -1,2 +1,1 @@
-# hello-world-aws-pipeline
-aws pipeline spring boot hello world app
+This is a GitHub repository!
